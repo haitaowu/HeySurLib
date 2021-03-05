@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HeySurLib (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HeySurLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HeySurLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HeySurLib: a145cf690c701f01ec107e9a554ac6a85b222ebd
+
+PODFILE CHECKSUM: fb879a54f1c823f2b9f5722e63039f616f675e18
+
+COCOAPODS: 1.10.1

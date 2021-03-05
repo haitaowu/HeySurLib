@@ -1,0 +1,22 @@
+{
+  "name": "HeySurLib",
+  "version": "0.1.0",
+  "summary": "A hahahahaha",
+  "description": "TODO: hahahahaha.",
+  "homepage": "https://github.com/haitaowu/HeySurLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haitaowu": "woxiaotao521@126.com"
+  },
+  "source": {
+    "git": "https://github.com/haitaowu/HeySurLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HeySurLib/Classes/**/*"
+}
